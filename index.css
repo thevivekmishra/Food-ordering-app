@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loading{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid black;
+    border-bottom: #0dccea;
+    border-left:#ea710d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    margin-top: 9%;
+    margin-bottom:9%;
+    animation: loading 1s ease-in 0s infinite;
+}
+
+@keyframes loading {
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+    
+}

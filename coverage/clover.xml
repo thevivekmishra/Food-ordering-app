@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701106444707" clover="3.2.0">
+  <project timestamp="1701106444707" name="All files">
+    <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="3" elements="17" coveredelements="12" complexity="0" loc="10" ncloc="10" packages="2" files="2" classes="2"/>
+    <package name="components">
+      <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="3"/>
+      <file name="Header.js" path="C:\Users\Vivek kumar Mishra\Desktop\vs program\WEB DEV\namaste react\src\components\Header.js">
+        <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="3"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.js" path="C:\Users\Vivek kumar Mishra\Desktop\vs program\WEB DEV\namaste react\src\utils\store.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
